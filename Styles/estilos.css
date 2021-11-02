@@ -43,7 +43,13 @@ nav{
     display:flex;
     justify-content: space-evenly;
 }
+<<<<<<< HEAD
 
+=======
+.container{
+    font-size: 50px;
+}
+>>>>>>> development
 
 li{
     list-style-type: none;
