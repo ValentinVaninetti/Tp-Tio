@@ -43,7 +43,9 @@ nav{
     display:flex;
     justify-content: space-evenly;
 }
-
+.container{
+    font-size: 50px;
+}
 
 li{
     list-style-type: none;
