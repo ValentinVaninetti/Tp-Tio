@@ -38,6 +38,10 @@ input{
 }
 
 nav{
+   
+    display: hidden;
+}
+.mostrar{
     background-color: #34495e;
     height: 50px;
     display:flex;
