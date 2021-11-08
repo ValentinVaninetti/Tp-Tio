@@ -4,4 +4,3 @@ console.log("Tengo un noticion para la proxima sesion de mates")
 "use strict"
 
 console.log ("Hello World!")
-console.log("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
