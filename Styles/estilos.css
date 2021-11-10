@@ -1,3 +1,49 @@
+<<<<<<< HEAD
+body {
+=======
+<<<<<<< HEAD
+body{
+>>>>>>> martin
+    background-color: #2c3e50;
+}
+
+* {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+img {
+    margin-top: 20px;
+    height: 200px;
+}
+
+input {
+    padding: 7px;
+    color: black;
+}
+
+.logoutButton {
+    text-align: right;
+}
+
+.content {
+    display: flex;
+    text-align: center;
+}
+
+.showButton {
+    display: none;
+}
+<<<<<<< HEAD
+
+.titulo {
+=======
+.titulo{
+=======
 body {
     background-color: #2c3e50;
 }
@@ -35,10 +81,33 @@ input {
 }
 
 .titulo {
+>>>>>>> d35e60b6d99853df2bb76d8f5c2fb0469db4e8e0
+>>>>>>> martin
     font-size: 40px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
+<<<<<<< HEAD
+nav {
+=======
+<<<<<<< HEAD
+nav{
+>>>>>>> martin
+    background-color: #34495e;
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container {
+    font-size: 50px;
+}
+
+<<<<<<< HEAD
+li {
+=======
+li{
+=======
 nav {
     background-color: #34495e;
     height: 50px;
@@ -51,20 +120,71 @@ nav {
 }
 
 li {
+>>>>>>> d35e60b6d99853df2bb76d8f5c2fb0469db4e8e0
+>>>>>>> martin
     list-style-type: none;
     font-size: 19px;
     margin-top: 15px;
 }
+<<<<<<< HEAD
 
 a {
     text-decoration: none;
 }
 
+=======
+<<<<<<< HEAD
+a{
+    text-decoration:none;
+}
+=======
+
+a {
+    text-decoration: none;
+}
+
+>>>>>>> d35e60b6d99853df2bb76d8f5c2fb0469db4e8e0
+>>>>>>> martin
 nav a {
     text-decoration: none;
     text-transform: uppercase;
     color: white;
 }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+nav a:hover, a:hover{
+>>>>>>> martin
+
+nav a:hover,
+a:hover {
+    padding: 3px;
+    color: #1abc9c;
+}
+
+
+/* tipografias */
+
+h1 {
+    font-size: 50px;
+    font-style: oblique;
+    margin: 10px;
+    color: black;
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(34, 99, 219);
+    font-family: fantasy;
+    text-align: center;
+}
+<<<<<<< HEAD
+
+div,
+ul {
+=======
+div, ul{
+=======
 
 nav a:hover,
 a:hover {
@@ -91,11 +211,41 @@ h2 {
 
 div,
 ul {
+>>>>>>> d35e60b6d99853df2bb76d8f5c2fb0469db4e8e0
+>>>>>>> martin
     margin-top: 20px;
     text-align: center;
     padding: 0;
 }
 
+<<<<<<< HEAD
+.buttons {
+=======
+<<<<<<< HEAD
+.buttons{
+>>>>>>> martin
+    text-decoration: none;
+}
+
+.titleGames {
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+.form {
+    align-items: center;
+}
+
+.box {
+    margin-top: 60px;
+    text-align: center;
+}
+<<<<<<< HEAD
+
+.box h1 {
+=======
+.box h1{
+=======
 .buttons {
     text-decoration: none;
 }
@@ -115,10 +265,13 @@ ul {
 }
 
 .box h1 {
+>>>>>>> d35e60b6d99853df2bb76d8f5c2fb0469db4e8e0
+>>>>>>> martin
     color: white;
     text-transform: uppercase;
     font-weight: 500;
 }
+<<<<<<< HEAD
 
 .box input:focus {
     width: 280px;
@@ -127,11 +280,54 @@ ul {
 
 .box input,
 form button {
+=======
+<<<<<<< HEAD
+.box input:focus{
+    width: 280px;
+    border-color: #2ecc71;
+}
+.box input, form button{
+=======
+
+.box input:focus {
+    width: 280px;
+    border-color: #2ecc71;
+}
+
+.box input,
+form button {
+>>>>>>> d35e60b6d99853df2bb76d8f5c2fb0469db4e8e0
+>>>>>>> martin
     background: none;
     margin: 20px auto;
     text-align: center;
     border: 2px solid #3498db;
     border-radius: 24px;
+<<<<<<< HEAD
+    padding: 14px 30px;
+=======
+<<<<<<< HEAD
+    padding:14px 30px;
+>>>>>>> martin
+    width: 200px;
+    outline: none;
+    color: white;
+    transition: 0.25s;
+}
+
+button {
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+select,
+option,
+textarea {
+    color: black;
+}
+<<<<<<< HEAD
+=======
+=======
     padding: 14px 30px;
     width: 200px;
     outline: none;
@@ -149,10 +345,16 @@ option,
 textarea {
     color: black;
 }
+>>>>>>> martin
 
 footer {
     text-align: center;
     background-color: #34495e;
     height: 40px;
     margin: 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> d35e60b6d99853df2bb76d8f5c2fb0469db4e8e0
+>>>>>>> martin
