@@ -39,17 +39,6 @@ input {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-<<<<<<< HEAD
-nav{
-    background-color: #34495e;
-    height: 50px;
-    display:flex;
-    justify-content: space-evenly;
-}
-
-
-li{
-=======
 nav {
     background-color: #34495e;
     height: 50px;
@@ -62,37 +51,20 @@ nav {
 }
 
 li {
->>>>>>> d35e60b6d99853df2bb76d8f5c2fb0469db4e8e0
     list-style-type: none;
     font-size: 19px;
     margin-top: 15px;
 }
-<<<<<<< HEAD
-a{
-    text-decoration:none;
-}
-=======
 
 a {
     text-decoration: none;
 }
 
->>>>>>> d35e60b6d99853df2bb76d8f5c2fb0469db4e8e0
 nav a {
     text-decoration: none;
     text-transform: uppercase;
     color: white;
 }
-<<<<<<< HEAD
-nav a:hover, a:hover{
-
-    color:#1abc9c;
-}
-h1{
-    font-size: 30px;
-}
-div, ul{
-=======
 
 nav a:hover,
 a:hover {
@@ -119,31 +91,11 @@ h2 {
 
 div,
 ul {
->>>>>>> d35e60b6d99853df2bb76d8f5c2fb0469db4e8e0
     margin-top: 20px;
     text-align: center;
     padding: 0;
 }
 
-<<<<<<< HEAD
-.buttons{
-    text-decoration: none;
-}
-
-.titleGames{
-    font-size: 25px;
-    text-transform: uppercase;
-}
-.form{
-align-items: center;
-}
-.box{
-    margin-top: 60px;
-    text-align: center;
-
-}
-.box h1{
-=======
 .buttons {
     text-decoration: none;
 }
@@ -163,18 +115,10 @@ align-items: center;
 }
 
 .box h1 {
->>>>>>> d35e60b6d99853df2bb76d8f5c2fb0469db4e8e0
     color: white;
     text-transform: uppercase;
     font-weight: 500;
 }
-<<<<<<< HEAD
-.box input:focus{
-    width: 280px;
-    border-color: #2ecc71;
-}
-.box input, form button{
-=======
 
 .box input:focus {
     width: 280px;
@@ -183,27 +127,11 @@ align-items: center;
 
 .box input,
 form button {
->>>>>>> d35e60b6d99853df2bb76d8f5c2fb0469db4e8e0
     background: none;
     margin: 20px auto;
     text-align: center;
     border: 2px solid #3498db;
     border-radius: 24px;
-<<<<<<< HEAD
-    padding:14px 30px;
-    width: 200px;
-    outline: none;
-    color: white;
-    transition: 0.25s;  
-}
-button{
-    cursor: pointer;
-    margin-top: 20px;
-}
-select, option, textarea{
-    color: black;
-}
-=======
     padding: 14px 30px;
     width: 200px;
     outline: none;
@@ -228,4 +156,3 @@ footer {
     height: 40px;
     margin: 0;
 }
->>>>>>> d35e60b6d99853df2bb76d8f5c2fb0469db4e8e0
