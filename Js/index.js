@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-console.log("Che Vaca... hacemos un chat por aca?")
-console.log("Dale, que contas de tu vida?")
-console.log("Tengo un noticion para la proxima sesion de mates")
-=======
 "use strict"
 document.addEventListener("DOMContentLoaded", iniciarPagina)
 
@@ -24,4 +19,3 @@ document.addEventListener("DOMContentLoaded", iniciarPagina)
     }
     
 }
->>>>>>> d35e60b6d99853df2bb76d8f5c2fb0469db4e8e0
