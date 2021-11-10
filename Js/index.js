@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", iniciarPagina)
     button.addEventListener("click", saludar);
 
     function saludar() {
-    console.log("Hola, soy una funcion")
+    console.log("Hola, me identifico como funcion")
     } 
 
     button.addEventListener("click", mostrarNav);
