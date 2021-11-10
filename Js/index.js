@@ -2,13 +2,13 @@
 document.addEventListener("DOMContentLoaded", iniciarPagina)
 
     function iniciarPagina() {
-    console.log ("Hello World!")
+    console.log ("Welcome to the Jungle!!")
 
     let button = document.querySelector("buttonShow");
     button.addEventListener("click", saludar);
 
     function saludar() {
-    console.log("Hola, soy una funcion")
+    console.log("Hola, me identifico como funcion")
     } 
 
     button.addEventListener("click", mostrarNav);
