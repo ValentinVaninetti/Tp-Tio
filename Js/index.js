@@ -2,7 +2,7 @@
 document.addEventListener("DOMContentLoaded", iniciarPagina)
 
     function iniciarPagina() {
-    console.log ("Hello World!")
+    console.log ("Welcome to the Jungle!!")
 
     let button = document.querySelector("buttonShow");
     button.addEventListener("click", saludar);
